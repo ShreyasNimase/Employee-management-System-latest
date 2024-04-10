@@ -1,0 +1,31 @@
+.btn-primary{
+    color: white;
+    background-color: rgb(184, 70, 250) !important;
+    border-color: rgb(167, 0, 209) !important;
+    margin-right: 65px;
+}
+
+.icon-img{
+    height: 90px;
+    width: 90px;
+    /* margin: 10px; */
+}
+
+.text-center{
+    margin-top: 150px;
+}
+
+.login_image{    
+    width: 600px;
+    margin-left: 100px;
+    align-items: top;
+
+}
+
+.heading{
+    color: rgb(184, 70, 250);
+
+}
+.home1{
+    align-items: top;
+}
